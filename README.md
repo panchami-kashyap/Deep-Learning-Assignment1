@@ -33,6 +33,3 @@ Scikit-learn
 - Training loss curves
 - Autoencoder reconstruction images
 - RBM filter visualizations
-
-## Author
-Deep Learning Assignment Submission
